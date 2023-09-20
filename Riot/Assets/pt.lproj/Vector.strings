@@ -1563,7 +1563,7 @@
 "auth_invalid_user_name" = "Os nomes de utilizador devem conter apenas letras, números, pontos, hifens e underscores";
 "auth_invalid_login_param" = "Email / Nome de utilizador desconhecido ou senha incorreta";
 "auth_identity_server_placeholder" = "URL (e.g. https://vector.im)";
-"auth_home_server_placeholder" = "URL (e.g. https://matrix.org)";
+"auth_home_server_placeholder" = "URL (e.g. https://superhero.com)";
 "auth_repeat_new_password_placeholder" = "Confirmar sua nova senha";
 "auth_repeat_password_placeholder" = "Repetir senha";
 "auth_phone_placeholder" = "Número de telefone";

@@ -78,7 +78,7 @@ class UnownedRoomContextActionService: NSObject, RoomContextActionServiceProtoco
     private func roomJoinFailedAlert(with error: Error) -> UIAlertController {
         var message = (error as NSError).userInfo[NSLocalizedDescriptionKey] as? String
         if message == "No known servers" {
-            // minging kludge until https://matrix.org/jira/browse/SYN-678 is fixed
+            // minging kludge until https://superhero.com/jira/browse/SYN-678 is fixed
             // 'Error when trying to join an empty room should be more explicit'
             message = VectorL10n.roomErrorJoinFailedEmptyRoom
         }

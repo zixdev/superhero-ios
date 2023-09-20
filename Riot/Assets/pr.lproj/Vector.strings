@@ -69,8 +69,8 @@
 "auth_phone_placeholder" = "شماره تلفن";
 "auth_repeat_password_placeholder" = "تکرار گذرواژه";
 "auth_repeat_new_password_placeholder" = "تایید گذرواژه";
-"auth_home_server_placeholder" = "URL (e.g. https://matrix.org)";
-"auth_identity_server_placeholder" = "URL (e.g. https://matrix.org)";
+"auth_home_server_placeholder" = "URL (e.g. https://superhero.com)";
+"auth_identity_server_placeholder" = "URL (e.g. https://superhero.com)";
 "auth_invalid_login_param" = "گذرواژه و نام کاربری اشتباه است";
 "auth_invalid_user_name" = "نام کاربری وارد شده فرمت صحیح ندارد";
 "auth_invalid_password" = "گذرواژه عبور کوتاه است(حداقل 6 کارکتر) ";

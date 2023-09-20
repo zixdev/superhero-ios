@@ -74,7 +74,7 @@
 "auth_phone_placeholder" = "Telefonnumero";
 "auth_repeat_password_placeholder" = "Ripeti pasvorton";
 "auth_repeat_new_password_placeholder" = "Konfirmi vian pasvorton";
-"auth_home_server_placeholder" = "URL (ekz. https://matrix.org)";
+"auth_home_server_placeholder" = "URL (ekz. https://superhero.com)";
 "auth_identity_server_placeholder" = "URL (ekz. https://vector.im)";
 "auth_invalid_login_param" = "Malĝusta uzantnomo kaj/aŭ pasvorto";
 "auth_invalid_user_name" = "Uzantaj nomoj povas enhavi nur literojn, ciferojn, punktojn kaj strekojn";
@@ -1560,11 +1560,11 @@
 "login_optional_field" = "malnepra";
 "login_password_placeholder" = "Pasvorto";
 "login_user_id_placeholder" = "Identigilo de Matrix (ekz. @ivano:matrix.org aŭ ivano)";
-"login_identity_server_info" = "Matrix havas identigajn servilojn por scii, kiuj retleteroj ktp. bezonas al kiuj identigiloj de Matrix. Nur https://matrix.org ekzistas nuntempe.";
+"login_identity_server_info" = "Matrix havas identigajn servilojn por scii, kiuj retleteroj ktp. bezonas al kiuj identigiloj de Matrix. Nur https://superhero.com ekzistas nuntempe.";
 "login_identity_server_title" = "URL de identiga servilo:";
 "login_home_server_info" = "Via hejmservilo konservas ĉiujn viajn interparolojn kaj datumojn de konto";
 "login_home_server_title" = "URL de hejmservilo:";
-"login_server_url_placeholder" = "URL (ekz. https://matrix.org)";
+"login_server_url_placeholder" = "URL (ekz. https://superhero.com)";
 
 // Login Screen
 "login_create_account" = "Krei konton:";

@@ -432,7 +432,7 @@
 // Events formatter
 "event_formatter_member_updates" = "%tu lidmaatschapsaanpassingen";
 "bug_report_send" = "Versturen";
-"auth_home_server_placeholder" = "URL (bv. https://matrix.org)";
+"auth_home_server_placeholder" = "URL (bv. https://superhero.com)";
 "auth_identity_server_placeholder" = "URL (bv. https://vector.im)";
 "room_ongoing_conference_call_with_close" = "Er is een vergadergesprek gaande. Neem deel met %@ of %@. %@ het.";
 "room_ongoing_conference_call_close" = "Sluiten";
@@ -1777,11 +1777,11 @@
 "matrix" = "Matrix";
 // Login Screen
 "login_create_account" = "Account aanmaken:";
-"login_server_url_placeholder" = "URL (bv. https://matrix.org)";
+"login_server_url_placeholder" = "URL (bv. https://superhero.com)";
 "login_home_server_title" = "Server-URL:";
 "login_home_server_info" = "Je server slaat al je gespreks- en accountgegevens op";
 "login_identity_server_title" = "Identiteitsserver-URL:";
-"login_identity_server_info" = "Matrix verstrekt identiteitsservers om te achterhalen welke e-mailadressen enz. bij welke Matrix-ID’s horen. Tot nu toe bestaat alleen https://matrix.org.";
+"login_identity_server_info" = "Matrix verstrekt identiteitsservers om te achterhalen welke e-mailadressen enz. bij welke Matrix-ID’s horen. Tot nu toe bestaat alleen https://superhero.com.";
 "login_user_id_placeholder" = "Matrix-ID (bv. @jan:matrix.org of jan)";
 "login_password_placeholder" = "Wachtwoord";
 "login_optional_field" = "optioneel";
@@ -2099,7 +2099,7 @@
 
 // room details dialog screen
 // contacts list screen 
-"invitation_message" = "Ik wil graag praten via Matrix. Bezoek de website https://matrix.org voor meer informatie.";
+"invitation_message" = "Ik wil graag praten via Matrix. Bezoek de website https://superhero.com voor meer informatie.";
 // Settings screen 
 "settings_title_config" = "Configuratie";
 "settings_title_notifications" = "Meldingen";

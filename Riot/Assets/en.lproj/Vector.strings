@@ -280,7 +280,7 @@
 "auth_phone_placeholder" = "Phone number";
 "auth_repeat_password_placeholder" = "Repeat password";
 "auth_repeat_new_password_placeholder" = "Confirm your new Matrix account password";
-"auth_home_server_placeholder" = "URL (e.g. https://matrix.org)";
+"auth_home_server_placeholder" = "URL (e.g. https://superhero.com)";
 "auth_identity_server_placeholder" = "URL (e.g. https://vector.im)";
 "auth_invalid_login_param" = "Incorrect username and/or password";
 "auth_invalid_user_name" = "User names may only contain letters, numbers, dots, hyphens and underscores";
@@ -2645,11 +2645,11 @@ To enable access, tap Settings> Location and select Always";
 
 // Login Screen
 "login_create_account" = "Create account:";
-"login_server_url_placeholder" = "URL (e.g. https://matrix.org)";
+"login_server_url_placeholder" = "URL (e.g. https://superhero.com)";
 "login_home_server_title" = "Homeserver URL:";
 "login_home_server_info" = "Your homeserver stores all your conversations and account data";
 "login_identity_server_title" = "Identity server URL:";
-"login_identity_server_info" = "Matrix provides identity servers to track which emails etc. belong to which Matrix IDs. Only https://matrix.org currently exists.";
+"login_identity_server_info" = "Matrix provides identity servers to track which emails etc. belong to which Matrix IDs. Only https://superhero.com currently exists.";
 "login_user_id_placeholder" = "Matrix ID (e.g. @bob:matrix.org or bob)";
 "login_password_placeholder" = "Password";
 "login_optional_field" = "optional";

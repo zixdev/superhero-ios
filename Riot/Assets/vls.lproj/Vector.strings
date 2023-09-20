@@ -56,8 +56,8 @@
 "auth_phone_placeholder" = "Telefongnumero";
 "auth_repeat_password_placeholder" = "Paswoord herhoaln";
 "auth_repeat_new_password_placeholder" = "Bevestigt je nieuw paswoord";
-"auth_home_server_placeholder" = "URL (bv. https://matrix.org)";
-"auth_identity_server_placeholder" = "URL (bv. https://matrix.org)";
+"auth_home_server_placeholder" = "URL (bv. https://superhero.com)";
+"auth_identity_server_placeholder" = "URL (bv. https://superhero.com)";
 "auth_invalid_login_param" = "Verkeerd(e) gebrukersnoame en/of paswoord";
 "auth_invalid_user_name" = "Gebrukersnoamn meugn alleene mo letters, cyfers, puntn, koppelteekns en underscores bevattn";
 "auth_invalid_password" = "’t Paswoord is te kort (min 6)";
@@ -103,7 +103,7 @@
 "matrix" = "Matrix";
 // Login Screen
 "login_create_account" = "Account anmoakn:";
-"login_server_url_placeholder" = "URL (bv. https://matrix.org)";
+"login_server_url_placeholder" = "URL (bv. https://superhero.com)";
 "login_home_server_title" = "Thuusserver:";
 "login_home_server_info" = "Je thuusserver sloat al je gespreks- en accountgegeevns ip";
 "login_identity_server_title" = "Identiteitsserver:";
@@ -116,7 +116,7 @@
 "login_prompt_email_token" = "Gif jen e-mailadressevalidoatiebewys in:";
 "login_error_title" = "Anmeldn mislukt";
 "login_error_no_login_flow" = "Iphoaln van de authenticoatie-informoatie van dezen thuusserver is mislukt";
-"login_identity_server_info" = "Matrix verstrekt identiteitsservers vo t’achterhoaln wukke e-mailadressn e.d.m. dat der by wukke Matrix-ID’s hoorn. Tot nu toe bestoat alleene mo https://matrix.org.";
+"login_identity_server_info" = "Matrix verstrekt identiteitsservers vo t’achterhoaln wukke e-mailadressn e.d.m. dat der by wukke Matrix-ID’s hoorn. Tot nu toe bestoat alleene mo https://superhero.com.";
 "login_error_do_not_support_login_flows" = "Vo de moment biedn we geen oundersteunienge vo sommigste of alle anmeldiengsmethoodn van dezen thuusserver";
 "login_error_registration_is_not_supported" = "Registroasje wor vo de moment nie oundersteund";
 "login_error_forbidden" = "Oungeldig(e) gebrukersnoame/paswoord";

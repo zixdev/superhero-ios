@@ -232,7 +232,7 @@
 "auth_invalid_user_name" = "ຊື່ຜູ້ໃຊ້ຕ້ອງປະກອບມີຕົວອັກສອນ, ຕົວເລກ, ຈຸດ, ຂີດຕໍ່ ແລະຂີດກ້ອງເທົ່ານັ້ນ";
 "auth_invalid_login_param" = "ຊື່ຜູ້ໃຊ້ ແລະ /ຫຼືລະຫັດຜ່ານບໍ່ຖືກຕ້ອງ";
 "auth_identity_server_placeholder" = "URL (e.g. https://vector.im)";
-"auth_home_server_placeholder" = "URL (e.g. https://matrix.org)";
+"auth_home_server_placeholder" = "URL (e.g. https://superhero.com)";
 "auth_repeat_new_password_placeholder" = "ຢືນຢັນລະຫັດຜ່ານບັນຊີ Matrix ໃໝ່ຂອງທ່ານ";
 "auth_repeat_password_placeholder" = "ຊ້ຳລະຫັດຜ່ານ";
 "auth_phone_placeholder" = "ເບີໂທລະສັບ";
@@ -2401,11 +2401,11 @@
 "login_optional_field" = "ທາງເລືອກ";
 "login_password_placeholder" = "ລະຫັດຜ່ານ";
 "login_user_id_placeholder" = "Matrix ID (ເຊັ່ນ: @bob:matrix.org ຫຼື bob)";
-"login_identity_server_info" = "Matrix ໃຫ້ເຊີບເວີເພື່ອຕິດຕາມວ່າອີເມລ໌ໃດເປັນຂອງ Matrix IDs ໃດ. ມີພຽງແຕ່ https://matrix.org ໃນປັດຈຸບັນເທົ່ານັ້ນ.";
+"login_identity_server_info" = "Matrix ໃຫ້ເຊີບເວີເພື່ອຕິດຕາມວ່າອີເມລ໌ໃດເປັນຂອງ Matrix IDs ໃດ. ມີພຽງແຕ່ https://superhero.com ໃນປັດຈຸບັນເທົ່ານັ້ນ.";
 "login_identity_server_title" = "URL ເຊີບເວີ:";
 "login_home_server_info" = "homeserver ຂອງທ່ານທີ່ເກັບຮັກສາການສົນທະນາແລະຂໍ້ມູນບັນຊີຂອງທ່ານທັງຫມົດ";
 "login_home_server_title" = "URLຂອງ Homeserver :";
-"login_server_url_placeholder" = "URL (ເຊັ່ນ: https://matrix.org)";
+"login_server_url_placeholder" = "URL (ເຊັ່ນ: https://superhero.com)";
 
 // Login Screen
 "login_create_account" = "ສ້າງບັນຊີ:";

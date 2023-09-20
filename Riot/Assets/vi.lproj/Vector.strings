@@ -49,7 +49,7 @@
 "auth_phone_placeholder" = "Số điện thoại";
 "auth_repeat_password_placeholder" = "Nhật lại mật khẩu";
 "auth_repeat_new_password_placeholder" = "Xác nhận mật khẩu mới cho danh khoản Matrix";
-"auth_home_server_placeholder" = "URL (ví dụ: https://matrix.org)";
+"auth_home_server_placeholder" = "URL (ví dụ: https://superhero.com)";
 "auth_identity_server_placeholder" = "URL (vd. https://vector.im)";
 "auth_invalid_login_param" = "Tên đăng nhập hoặc mật khẩu không đúng";
 "warning" = "Cảnh báo";
@@ -1631,11 +1631,11 @@
 "matrix" = "Matrix";
 // Login Screen
 "login_create_account" = "Tạo tài khoản:";
-"login_server_url_placeholder" = "URL (e.g. https://matrix.org)";
+"login_server_url_placeholder" = "URL (e.g. https://superhero.com)";
 "login_home_server_title" = "Máy chủ nhà:";
 "login_home_server_info" = "Máy chủ nhà của bạn lưu trữ tất cả dữ liệu cần giữ gìn và tài khoản";
 "login_identity_server_title" = "Máy chủ xác thực:";
-"login_identity_server_info" = "Matrix cung cấp máy chủ xác thực để theo dõi email nào thuộc về Matrix IDs nào. Chỉ https://matrix.org hiện đang tồn tại.";
+"login_identity_server_info" = "Matrix cung cấp máy chủ xác thực để theo dõi email nào thuộc về Matrix IDs nào. Chỉ https://superhero.com hiện đang tồn tại.";
 "login_user_id_placeholder" = "Matrix ID (ví dụ: @bob:matrix.org hoặc bob)";
 "login_password_placeholder" = "Mật khẩu";
 "login_optional_field" = "không bắt buộc";

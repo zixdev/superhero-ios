@@ -407,7 +407,7 @@
 "settings_contacts_phonebook_country" = "Страна телефонной книги";
 "no_voip" = "%@ вызывает вас, но %@ пока не поддерживает вызовы.\nМожно пропустить это уведомление и ответить на звонок с другого устройства, или вы можете отклонить его.";
 "room_participants_remove_third_party_invite_msg" = "Удалить приглашение стороннего сервера невозможно, пока не описан API";
-"auth_home_server_placeholder" = "URL (например https://matrix.org)";
+"auth_home_server_placeholder" = "URL (например https://superhero.com)";
 "auth_identity_server_placeholder" = "URL (например https://vector.im)";
 "room_ongoing_conference_call_with_close" = "Текущий групповой звонок. Войдите как %@ или %@. %@.";
 "room_ongoing_conference_call_close" = "Закрыть";
@@ -1512,11 +1512,11 @@
 "matrix" = "Matrix";
 // Login Screen
 "login_create_account" = "Регистрация:";
-"login_server_url_placeholder" = "URL (например https://matrix.org)";
+"login_server_url_placeholder" = "URL (например https://superhero.com)";
 "login_home_server_title" = "URL домашнего сервера:";
 "login_home_server_info" = "Ваш домашний сервер хранит все ваши разговоры и данные о аккаунте";
 "login_identity_server_title" = "Cервер идентификации URL:";
-"login_identity_server_info" = "Серверы идентификации Matrix обеспечивают определение соответствия между email и Matrix ID. В настоящее время существует только https://matrix.org.";
+"login_identity_server_info" = "Серверы идентификации Matrix обеспечивают определение соответствия между email и Matrix ID. В настоящее время существует только https://superhero.com.";
 "login_user_id_placeholder" = "Matrix ID (например, @bob:matrix.org или bob)";
 "login_password_placeholder" = "Пароль";
 "login_optional_field" = "не обязательно";
@@ -1799,7 +1799,7 @@
 "login_error_must_start_http" = "URL-адрес должен начинаться с http[s]://";
 // room details dialog screen
 // contacts list screen 
-"invitation_message" = "Я бы хотел поговорить с вами в Matrix. Пожалуйста, посетите веб-сайт https://matrix.org для получения дополнительной информации.";
+"invitation_message" = "Я бы хотел поговорить с вами в Matrix. Пожалуйста, посетите веб-сайт https://superhero.com для получения дополнительной информации.";
 // Settings screen 
 "settings_title_config" = "Конфигурация";
 "settings_title_notifications" = "Уведомления";

@@ -50,7 +50,7 @@
 "auth_phone_placeholder" = "電話番号";
 "auth_repeat_password_placeholder" = "パスワードを再確認";
 "auth_repeat_new_password_placeholder" = "Matrixアカウントの新しいパスワードを確認";
-"auth_home_server_placeholder" = "URL (例 https://matrix.org)";
+"auth_home_server_placeholder" = "URL (例 https://superhero.com)";
 "auth_identity_server_placeholder" = "URL (例 https://vector.im)";
 "auth_invalid_login_param" = "ユーザー名とパスワードの一方あるいは両方が正しくありません";
 "auth_invalid_user_name" = "ユーザー名には半角英数字、ドット、ハイフン、アンダースコアのみを使用してください";
@@ -1147,7 +1147,7 @@
 "matrix" = "Matrix";
 // Login Screen
 "login_create_account" = "アカウントを作成：";
-"login_server_url_placeholder" = "URL (例 https://matrix.org)";
+"login_server_url_placeholder" = "URL (例 https://superhero.com)";
 "login_home_server_title" = "ホームサーバーのURL：";
 "login_home_server_info" = "あなたのホームサーバーは、あなたの全ての会話とアカウント情報を保存します";
 "login_identity_server_title" = "IDサーバーのURL：";
@@ -1160,7 +1160,7 @@
 "resend_message" = "メッセージを再送信";
 "select_all" = "全て選択";
 "show_details" = "詳細を表示";
-"login_identity_server_info" = "Matrixは、電子メールなどからMatrix IDを検索するIDサーバーを提供します。現在は https://matrix.org のみが存在します。";
+"login_identity_server_info" = "Matrixは、電子メールなどからMatrix IDを検索するIDサーバーを提供します。現在は https://superhero.com のみが存在します。";
 "login_user_id_placeholder" = "Matrix ID（例 @bob:matrix.org または bob）";
 "login_optional_field" = "任意";
 "login_display_name_placeholder" = "表示名（例 Bob Obson）";

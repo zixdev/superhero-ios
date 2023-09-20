@@ -51,7 +51,7 @@
 "auth_phone_placeholder" = "Telefonní číslo";
 "auth_repeat_password_placeholder" = "Zopakovat heslo";
 "auth_repeat_new_password_placeholder" = "Potvrďte své nové heslo k účtu Matrix";
-"auth_home_server_placeholder" = "URL (např. https://matrix.org)";
+"auth_home_server_placeholder" = "URL (např. https://superhero.com)";
 "auth_identity_server_placeholder" = "URL (např. https://vector.im)";
 "auth_invalid_login_param" = "Nesprávné uživatelské jméno nebo heslo";
 "auth_invalid_user_name" = "Uživatelské jméno může obsahovat pouze písmena, číslice, tečky, pomlčky a podtržítka";

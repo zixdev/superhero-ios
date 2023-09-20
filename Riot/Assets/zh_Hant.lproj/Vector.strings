@@ -51,7 +51,7 @@
 "auth_phone_placeholder" = "電話號碼";
 "auth_repeat_password_placeholder" = "確認密碼";
 "auth_repeat_new_password_placeholder" = "確認新 Matrix 帳號的密碼";
-"auth_home_server_placeholder" = "網址（例如 https://matrix.org）";
+"auth_home_server_placeholder" = "網址（例如 https://superhero.com）";
 "auth_identity_server_placeholder" = "網址（例如 https://vector.im）";
 "auth_invalid_login_param" = "使用者名稱和／或密碼不正確";
 "auth_invalid_user_name" = "使用者名稱只能包含英數字、點、連字符號、底線";
@@ -908,11 +908,11 @@
 "matrix" = "Matrix";
 // Login Screen
 "login_create_account" = "建立帳號：";
-"login_server_url_placeholder" = "網址（例如 https://matrix.org）";
+"login_server_url_placeholder" = "網址（例如 https://superhero.com）";
 "login_home_server_title" = "家伺服器網址：";
 "login_home_server_info" = "您的家伺服器會儲存所有的對話紀錄跟帳號資料";
 "login_identity_server_title" = "身分伺服器網址：";
-"login_identity_server_info" = "Matrix 提供身分認證伺服器來追蹤電子郵件信箱與 Matrix ID 的關係。目前只有 https://matrix.org 提供這個服務。";
+"login_identity_server_info" = "Matrix 提供身分認證伺服器來追蹤電子郵件信箱與 Matrix ID 的關係。目前只有 https://superhero.com 提供這個服務。";
 "login_user_id_placeholder" = "Matrix ID（如 @bob:matrix.org 或 bob）";
 "login_password_placeholder" = "密碼";
 "login_optional_field" = "選擇性";

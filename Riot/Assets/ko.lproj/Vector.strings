@@ -56,7 +56,7 @@
 "auth_phone_placeholder" = "전화번호";
 "auth_repeat_password_placeholder" = "비밀번호 다시 입력";
 "auth_repeat_new_password_placeholder" = "새 Matrix 계정 비밀번호 확인";
-"auth_home_server_placeholder" = "URL (예: https://matrix.org)";
+"auth_home_server_placeholder" = "URL (예: https://superhero.com)";
 "auth_identity_server_placeholder" = "URL (예: https://vector.im)";
 "auth_invalid_login_param" = "맞지 않은 사용자 이름 혹은 비밀번호";
 "auth_invalid_user_name" = "사용자 이름에는 문자, 숫자, 점, 하이픈(-)과 밑줄(_)만 들어갑니다";
@@ -1129,7 +1129,7 @@
 "matrix" = "Matrix";
 // Login Screen
 "login_create_account" = "계정 만들기:";
-"login_server_url_placeholder" = "URL (예: https://matrix.org)";
+"login_server_url_placeholder" = "URL (예: https://superhero.com)";
 "login_home_server_title" = "홈서버 URL:";
 "login_identity_server_title" = "ID 서버 URL:";
 "login_user_id_placeholder" = "Matrix ID (예: @bob:matrix.org 혹은 bob)";
@@ -1217,7 +1217,7 @@
 "language_picker_title" = "언어를 고르세요";
 "language_picker_default_language" = "기본 (%@)";
 "login_home_server_info" = "당신의 홈서버는 대화와 계정 정보를 저장합니다";
-"login_identity_server_info" = "Matrix는 어떤 이메일이 어떤 Matrix ID에 속하느 지 추적하도록 ID 서버를 제공합니다. 현재는 https://matrix.org만 존재합니다.";
+"login_identity_server_info" = "Matrix는 어떤 이메일이 어떤 Matrix ID에 속하느 지 추적하도록 ID 서버를 제공합니다. 현재는 https://superhero.com만 존재합니다.";
 "login_display_name_placeholder" = "표시 이름 (예: Bob Obson)";
 "login_email_info" = "다른 사용자가 Matrix에서 당신을 더 쉽게 찾고, 이후 비밀번호를 다시 설정할 수 있도록 이메일 주소를 지정하세요.";
 "login_prompt_email_token" = "이메일 확인 토큰을 입럭해주세요:";

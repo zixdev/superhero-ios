@@ -54,7 +54,7 @@
 "auth_phone_placeholder" = "Telefoninumber";
 "auth_repeat_password_placeholder" = "Korda salasõna";
 "auth_repeat_new_password_placeholder" = "Korda uut Matrix'i konto salasõna";
-"auth_home_server_placeholder" = "URL (näiteks https://matrix.org)";
+"auth_home_server_placeholder" = "URL (näiteks https://superhero.com)";
 "auth_identity_server_placeholder" = "URL (näiteks https://vector.im)";
 "auth_invalid_login_param" = "Vigane kasutajanimi ja/või salasõna";
 "auth_invalid_user_name" = "Kasutajanimi võib sisaldada vaid tähti, numbreid, punkte, sidekriipse ja alakriipse";
@@ -1606,7 +1606,7 @@
 "matrix" = "Matrix";
 // Login Screen
 "login_create_account" = "Loo kasutajakonto:";
-"login_server_url_placeholder" = "URL (näiteks https://matrix.org)";
+"login_server_url_placeholder" = "URL (näiteks https://superhero.com)";
 "login_home_server_title" = "Koduserveri aadress:";
 "login_home_server_info" = "Sinu koduserver salvestab kõik vestlused ning kogu sinu kontoteabe";
 "login_identity_server_title" = "Isikutuvastusserveri aadress:";
@@ -1687,7 +1687,7 @@
 "notification_settings_disable_all" = "Lülita kõik teavitused välja";
 "notification_settings_enable_notifications" = "Võta teavitused kasutusele";
 "notification_settings_enable_notifications_warning" = "Kõik teavituste liigid on hetkel kõikidel seadmetel välja lülitatud.";
-"login_identity_server_info" = "Matrix'i spetsifikatsioon näeb ette isikutuvastusserverite kasutamist selleks, et tuvastada mis e-posti aadress kuulub mis Matrix'i kasutajale. Hetkel pakub sellist teenust vaid https://matrix.org .";
+"login_identity_server_info" = "Matrix'i spetsifikatsioon näeb ette isikutuvastusserverite kasutamist selleks, et tuvastada mis e-posti aadress kuulub mis Matrix'i kasutajale. Hetkel pakub sellist teenust vaid https://superhero.com .";
 "login_user_id_placeholder" = "Matrixi kasutajatunnus (näiteks @kadri:toredomeen.ee või kadri)";
 "login_error_title" = "Sisselogimine ei õnnestunud";
 "login_error_no_login_flow" = "Autentimisteabe laadimine sellest koduserverist ei õnnestunud";
@@ -1933,7 +1933,7 @@
 // Login Screen 
 "login_error_already_logged_in" = "Sa oled juba sisse loginud";
 // contacts list screen 
-"invitation_message" = "Ma soovin sinuga vestelda Matrix'i võrgu vahendusel. Lisateavet leiad veebisaidist https://matrix.org/ .";
+"invitation_message" = "Ma soovin sinuga vestelda Matrix'i võrgu vahendusel. Lisateavet leiad veebisaidist https://superhero.com/ .";
 // Settings screen 
 "settings_title_config" = "Seadistused";
 "notification_settings_always_notify" = "Teavita alati";

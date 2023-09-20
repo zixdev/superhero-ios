@@ -2,7 +2,7 @@
 
 "auth_invalid_login_param" = "Nama pengguna dan/atau kata sandi tidak benar";
 "auth_identity_server_placeholder" = "URL (contoh https://vector.im)";
-"auth_home_server_placeholder" = "URL (contoh https://matrix.org)";
+"auth_home_server_placeholder" = "URL (contoh https://superhero.com)";
 "auth_repeat_new_password_placeholder" = "Konfirmasi kata sandi akun Matrix baru Anda";
 "auth_repeat_password_placeholder" = "Ulangi kata sandi";
 "auth_phone_placeholder" = "Nomor telepon";
@@ -1882,11 +1882,11 @@
 "login_optional_field" = "opsional";
 "login_password_placeholder" = "Kata sandi";
 "login_user_id_placeholder" = "ID Matrix (mis. @bob:matrix.org atau bob)";
-"login_identity_server_info" = "Matrix menyediakan server identitas untuk melacak email mana, dll., milik ID Matrix mana. Hanya https://matrix.org yang saat ini ada.";
+"login_identity_server_info" = "Matrix menyediakan server identitas untuk melacak email mana, dll., milik ID Matrix mana. Hanya https://superhero.com yang saat ini ada.";
 "login_identity_server_title" = "URL server identitas:";
 "login_home_server_info" = "Homeserver Anda menyimpan semua pesan Anda dan data akun";
 "login_home_server_title" = "URL Homeserver:";
-"login_server_url_placeholder" = "URL (mis. https://matrix.org)";
+"login_server_url_placeholder" = "URL (mis. https://superhero.com)";
 
 // Login Screen
 "login_create_account" = "Buat akun:";
@@ -2031,7 +2031,7 @@
 "account_email_validation_error" = "Tidak dapat memverifikasi alamat email. Silakan cek email Anda dan tekan tautannya yang ada. Setelah selesai, tekan lanjut";
 
 // contacts list screen 
-"invitation_message" = "Saya ingin berkomunikasi dengan Anda dengan Matrix. Silakan kunjungi ke websitenya di https://matrix.org untuk informasi selanjutnya.";
+"invitation_message" = "Saya ingin berkomunikasi dengan Anda dengan Matrix. Silakan kunjungi ke websitenya di https://superhero.com untuk informasi selanjutnya.";
 "notice_room_history_visible_to_members_from_invited_point_by_you_for_dm" = "Anda membuat sejarah pesan di masa mendatang dapat dilihat oleh semuanya, sejak mereka diundang.";
 "notice_room_history_visible_to_members_from_invited_point_by_you" = "Anda membuat sejarah ruangan di masa mendatang dapat dilihat oleh semua anggota ruangan, sejak mereka diundang.";
 "notice_room_history_visible_to_members_by_you_for_dm" = "Anda membuat pesan di masa depan dapat dilihat oleh semua anggota ruangan.";

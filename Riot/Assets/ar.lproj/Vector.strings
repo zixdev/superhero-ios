@@ -47,7 +47,7 @@
 "auth_invalid_user_name" = "يُمكِنُ أن تَحتَوِي أسماءُ المُستَخدِمين فَقَط عَلَى أحرُف، أرقَام، نِقَاط، شَرَطَات وَشَرَطَات سُفلِيَّة";
 "auth_invalid_login_param" = "اِسمُ مُستَخدِم وَ/أو كَلِمَةُ مُرُور غَيرُ صَحِيحَة";
 "auth_identity_server_placeholder" = "عُنوان URL (مِثل. https://vector.im)";
-"auth_home_server_placeholder" = "عُنوان URL (مِثل. https://matrix.org)";
+"auth_home_server_placeholder" = "عُنوان URL (مِثل. https://superhero.com)";
 "auth_repeat_new_password_placeholder" = "تأكِّيد كَلِمَةَ مُرُورِ حِسابك Matrix الجَديدَة";
 "auth_repeat_password_placeholder" = "إعادَةُ كَلِمَةِ المُرُور";
 "auth_phone_placeholder" = "رَقم هَاتِف";
@@ -488,11 +488,11 @@
 "login_display_name_placeholder" = "الاِسم الظّاهِر (مِثل. محمد عبدالله)";
 "login_optional_field" = "اِختياري";
 "login_password_placeholder" = "كَلِمَةُ المُرُور";
-"login_identity_server_info" = "تُوَفِّرُ Matrix خَوادِم هُويَّة لتَتَبُع عَناوين البَريد الإلِكتُرونيّ وَما إلى ذَلِكَ مِنَ الَّتي تَنتَمي إلى مُعَرِّفات Matrix. فَقَط https://matrix.org مُتَوَفِّر حاليًا.";
+"login_identity_server_info" = "تُوَفِّرُ Matrix خَوادِم هُويَّة لتَتَبُع عَناوين البَريد الإلِكتُرونيّ وَما إلى ذَلِكَ مِنَ الَّتي تَنتَمي إلى مُعَرِّفات Matrix. فَقَط https://superhero.com مُتَوَفِّر حاليًا.";
 "login_identity_server_title" = "عُنوان URL لِخادِم الهُويَّة:";
 "login_home_server_info" = "الخادِم الرَّئيسي الخاصّ بِك يُخَزِّنُ جَميع مُحادَثاتك وَمَعلُومات حِسابك";
 "login_home_server_title" = "عُنوان URL لِلخادِم الرَّئيسي:";
-"login_server_url_placeholder" = "عُنوان URL (مِثل https://matrix.org)";
+"login_server_url_placeholder" = "عُنوان URL (مِثل https://superhero.com)";
 
 // Login Screen
 "login_create_account" = "إنشاءُ حِساب:";
@@ -787,7 +787,7 @@
 "settings_title_notifications" = "الإِشعَارات";
 
 // contacts list screen 
-"invitation_message" = "أوَدُّ أن أتَحَدَّثَ مَعكَ بِاستِخدامِ matrix. يرُجَى زيارَةُ المَوقِع https://matrix.org لِلحُصُولِ عَلَى مَزيدٍ مِنَ المَعلُومات.";
+"invitation_message" = "أوَدُّ أن أتَحَدَّثَ مَعكَ بِاستِخدامِ matrix. يرُجَى زيارَةُ المَوقِع https://superhero.com لِلحُصُولِ عَلَى مَزيدٍ مِنَ المَعلُومات.";
 
 // members list Screen 
 

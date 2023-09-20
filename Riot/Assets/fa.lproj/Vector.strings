@@ -25,7 +25,7 @@
 "auth_invalid_user_name" = "نام کاربری تنها می‌تواند شامل حروف، اعداد، نقطه، خط تیره و زیر خط باشد";
 "auth_invalid_login_param" = "نام کاربری ویا رمزعبور اشتباه است";
 "auth_identity_server_placeholder" = "آدرس (مانند https://vector.im)";
-"auth_home_server_placeholder" = "آدرس (مانند https://matrix.org)";
+"auth_home_server_placeholder" = "آدرس (مانند https://superhero.com)";
 "auth_repeat_new_password_placeholder" = "رمز عبور جدید خود را تکرار کنید";
 "auth_repeat_password_placeholder" = "تکرار رمز عبور";
 "auth_phone_placeholder" = "شماره تماس";
@@ -805,7 +805,7 @@
 "notice_room_history_visible_to_members_from_joined_point" = "%@ تاریخچه آینده‌ی اتاق را از همان زمانی که افراد به اتاق پیوستند برای آنان قابل مشاهده کرد.";
 "notice_room_history_visible_to_members_from_invited_point" = "%@ تاریخچه آینده‌ی اتاق را از همان زمانی که افراد دعوت شده اند برای آنان قابل مشاهده کرد.";
 "login_email_info" = "یک ایمیل مشخص کنید تا سایر کاربران بتوانند شما را در ماتریکس با سهولت بیشتری پیدا کنند و به شما راهی برای تنظیم مجدد رمز عبور خود در آینده بدهد.";
-"login_identity_server_info" = "ماتریکس سرورهای هویت‌سنجی را برای ردیابی اینکه کدام ایمیل‌ها و غیره متعلق به کدام شناسه‌های ماتریکس هستند فراهم می کند. در حال حاضر فقط https://matrix.org وجود دارد.";
+"login_identity_server_info" = "ماتریکس سرورهای هویت‌سنجی را برای ردیابی اینکه کدام ایمیل‌ها و غیره متعلق به کدام شناسه‌های ماتریکس هستند فراهم می کند. در حال حاضر فقط https://superhero.com وجود دارد.";
 "notice_video_attachment" = "پیوست ویدیویی";
 "notice_audio_attachment" = "پیوست صوتی";
 "notice_image_attachment" = "پیوست تصویر";
@@ -909,7 +909,7 @@
 "login_identity_server_title" = "آدرس سرور هویت‌سنجی:";
 "login_home_server_info" = "سرور تمام مکالمات و داده‌های حساب شما را ذخیره می کند";
 "login_home_server_title" = "آدرس سرور:";
-"login_server_url_placeholder" = "URL (به عنوان مثال https://matrix.org)";
+"login_server_url_placeholder" = "URL (به عنوان مثال https://superhero.com)";
 
 // Login Screen
 "login_create_account" = "ایجاد حساب:";

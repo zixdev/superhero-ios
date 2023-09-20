@@ -51,7 +51,7 @@
 "auth_phone_placeholder" = "Número de telefone";
 "auth_repeat_password_placeholder" = "Repetir senha";
 "auth_repeat_new_password_placeholder" = "Confirme a nova senha de sua conta Matrix";
-"auth_home_server_placeholder" = "URL (e.g. https://matrix.org)";
+"auth_home_server_placeholder" = "URL (e.g. https://superhero.com)";
 "auth_identity_server_placeholder" = "URL (e.g. https://vector.im)";
 "auth_invalid_login_param" = "Nome de usuária(o) e/ou senha incorretos";
 "auth_invalid_user_name" = "Nomes de usuária(o) podem somente conter letras, números, pontos, hifens e underscores";
@@ -1643,11 +1643,11 @@
 "matrix" = "Matrix";
 // Login Screen
 "login_create_account" = "Criar conta:";
-"login_server_url_placeholder" = "URL (e.g. https://matrix.org)";
+"login_server_url_placeholder" = "URL (e.g. https://superhero.com)";
 "login_home_server_title" = "URL de Servidorcasa:";
 "login_home_server_info" = "Seu servidorcasa armazena todas as suas conversas e dados de conta";
 "login_identity_server_title" = "URL de servidor de identidade:";
-"login_identity_server_info" = "Matrix provê servidores de identidade para rastrear quais emails, etc. pertencem a quais IDs Matrix. Somente https://matrix.org existe atualmente.";
+"login_identity_server_info" = "Matrix provê servidores de identidade para rastrear quais emails, etc. pertencem a quais IDs Matrix. Somente https://superhero.com existe atualmente.";
 "login_user_id_placeholder" = "ID Matrix (e.g. @bob:matrix.org ou bob)";
 "login_password_placeholder" = "Senha";
 "login_optional_field" = "opcional";

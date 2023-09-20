@@ -35,7 +35,7 @@
 "auth_phone_placeholder" = "Numero di telefono";
 "auth_repeat_password_placeholder" = "Ripeti la password";
 "auth_repeat_new_password_placeholder" = "Conferma la nuova password dell'account Matrix";
-"auth_home_server_placeholder" = "URL (es. https://matrix.org)";
+"auth_home_server_placeholder" = "URL (es. https://superhero.com)";
 "auth_identity_server_placeholder" = "URL (es. https://vector.im)";
 "auth_invalid_login_param" = "Nome utente e/o password non corretti";
 "auth_invalid_user_name" = "Il nome utente può contenere solo lettere, numeri, punti, trattini e linee basse";
@@ -1644,11 +1644,11 @@
 "matrix" = "Matrix";
 // Login Screen
 "login_create_account" = "Nuovo utente:";
-"login_server_url_placeholder" = "URL (es. https://matrix.org)";
+"login_server_url_placeholder" = "URL (es. https://superhero.com)";
 "login_home_server_title" = "URL homeserver:";
 "login_home_server_info" = "Lo storico delle conversazioni e i dati utente sono salvati sul tuo homeserver";
 "login_identity_server_title" = "URL del server d'identità:";
-"login_identity_server_info" = "Matrix fornisce dei server d'identità per associare i tuoi recapiti (es. l'indirizzo email) al tuo ID Matrix. Attualmente esiste solo il server https://matrix.org.";
+"login_identity_server_info" = "Matrix fornisce dei server d'identità per associare i tuoi recapiti (es. l'indirizzo email) al tuo ID Matrix. Attualmente esiste solo il server https://superhero.com.";
 "login_user_id_placeholder" = "ID Matrix (es. @gianni:matrix.org o gianni)";
 "login_password_placeholder" = "Password";
 "login_optional_field" = "opzionale";

@@ -1194,7 +1194,7 @@
 "auth_invalid_phone" = "Ur tettban ara d uṭṭun n tiliɣri ameɣtu";
 "auth_invalid_email" = "Ur tettban ara d tansa n yimayl tameɣtut";
 "auth_identity_server_placeholder" = "URL (e.g. https://vector.im)";
-"auth_home_server_placeholder" = "URL (e.g. https://matrix.org)";
+"auth_home_server_placeholder" = "URL (e.g. https://superhero.com)";
 
 // Accessibility
 "accessibility_checkbox_label" = "ṛcem tabewwaḍt";
@@ -1601,7 +1601,7 @@
 
 "matrix" = "Matrix";
 "account_msisdn_validation_message" = "Ad naze-n SMS deg-s tangalt n usenqed. Ttxil-k·m sekcem tangalt-a ddaw.";
-"login_server_url_placeholder" = "URL (e.g. https://matrix.org)";
+"login_server_url_placeholder" = "URL (e.g. https://superhero.com)";
 "notification_settings_per_room_notifications" = "Ilɣa s texxamt";
 "notification_settings_per_word_notifications" = "Ilɣa s awal";
 "notice_redaction_by_you" = "Tsemsawiḍ aneḍru (asulay: %@)";
@@ -1926,5 +1926,5 @@
 "login_email_info" = "Afran n tansa n yiamyl tettaǧǧa iseqdacen-nniḍen ad ak·akem-afen deg Matrix s sshala, rnu ad ak-tmudd abrid ad twennzeḍ awala-ik·im uffir ar sdat.";
 "login_display_name_placeholder" = "Isem yettwaskanen (am. Bob Obson)";
 "login_user_id_placeholder" = "Asulay n Matrix (am. @bob:matrix.org neɣ bob)";
-"login_identity_server_info" = "Matrix yettmuddu-d iqeddacen n timagit i ucuddu n yimaylen, atg. Wuɣur ttuɣalen yisulayen n Matrix. Ala https://matrix.org i yellan akka tura.";
+"login_identity_server_info" = "Matrix yettmuddu-d iqeddacen n timagit i ucuddu n yimaylen, atg. Wuɣur ttuɣalen yisulayen n Matrix. Ala https://superhero.com i yellan akka tura.";
 "login_home_server_info" = "Aqeddac-ik·im agejdan isseklas meṛṛa idiwenniyen-inek·inem d yisefka n umiḍan-inekịnem";

@@ -20,7 +20,7 @@ import Foundation
 extension MockAuthenticationRestClient {
     enum Config: String {
         /// A homeserver that mimics matrix.org with both passwords and SSO.
-        /// Create the client using https://matrix.org for this configuration.
+        /// Create the client using https://superhero.com for this configuration.
         case matrix
         
         /// A homeserver that supports login and registration using a password.
@@ -43,7 +43,7 @@ extension MockAuthenticationRestClient {
         
         init(url: URL) {
             switch url.absoluteString {
-            case "https://matrix.org", "https://matrix-client.matrix.org":
+            case "https://superhero.com", "https://matrix-client.matrix.org":
                 self = .matrix
             case "https://example.com", "https://matrix.example.com":
                 self = .basic

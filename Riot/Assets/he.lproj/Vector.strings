@@ -561,7 +561,7 @@
 "auth_add_phone_message_2" = "הגדר מספר טלפון, בהמשך יהווה אפשרות לזיהויך על ידי משתמשים שמכירים אותך.";
 "auth_add_email_message_2" = "הגדר דוא\"ל לטובת שחזור החשבון, בהמשך יהווה אפשרות לזיהויך על ידי משתמשים שמכירים אותך.";
 "auth_invalid_user_name" = "שמות משתמשים יכולים להכיל רק אותיות, מספרים, נקודות, מקפים וקווים תחתונים";
-"auth_home_server_placeholder" = "כתובת אתר (לדוגמה https://matrix.org)";
+"auth_home_server_placeholder" = "כתובת אתר (לדוגמה https://superhero.com)";
 "auth_user_id_placeholder" = "דואר אלקטרוני או שם משתמש";
 "auth_login_single_sign_on" = "התחבר";
 "onboarding_use_case_existing_server_button" = "התחבר לשרת";

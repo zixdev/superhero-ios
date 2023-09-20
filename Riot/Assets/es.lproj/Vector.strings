@@ -50,8 +50,8 @@
 "auth_phone_placeholder" = "Número de teléfono";
 "auth_repeat_password_placeholder" = "Repite la contraseña";
 "auth_repeat_new_password_placeholder" = "Confirma la nueva contraseña de tu cuenta de Matrix";
-"auth_home_server_placeholder" = "URL (ej.: https://matrix.org)";
-"auth_identity_server_placeholder" = "URL (ej.: https://matrix.org)";
+"auth_home_server_placeholder" = "URL (ej.: https://superhero.com)";
+"auth_identity_server_placeholder" = "URL (ej.: https://superhero.com)";
 "auth_invalid_login_param" = "Nombre de usuario y/o contraseña incorrectos";
 "auth_invalid_user_name" = "Los nombres de usuario solo pueden contener letras, números, puntos, guiones y guiones bajos";
 "auth_invalid_password" = "Contraseña demasiado corta (mínimo 6)";
@@ -652,11 +652,11 @@
 "matrix" = "Matrix";
 // Login Screen
 "login_create_account" = "Crear cuenta:";
-"login_server_url_placeholder" = "URL (p.ej. https://matrix.org)";
+"login_server_url_placeholder" = "URL (p.ej. https://superhero.com)";
 "login_home_server_title" = "Servidor Local:";
 "login_home_server_info" = "Tu servidor local almacena todas tus conversaciones y los datos de tu cuenta";
 "login_identity_server_title" = "URL de servidor de identidad:";
-"login_identity_server_info" = "Matrix proporciona servidores de identidades para rastrear qué correos electrónicos, etc. pertenecen a qué IDs de Matrix. Actualmente solo existe https://matrix.org.";
+"login_identity_server_info" = "Matrix proporciona servidores de identidades para rastrear qué correos electrónicos, etc. pertenecen a qué IDs de Matrix. Actualmente solo existe https://superhero.com.";
 "login_user_id_placeholder" = "ID de Matrix (p.ej. @juan:matrix.org o juan)";
 "login_password_placeholder" = "Contraseña";
 "login_optional_field" = "opcional";

@@ -13,7 +13,7 @@
 ![GitHub](https://img.shields.io/github/license/vector-im/element-ios)
 [![Twitter URL](https://img.shields.io/twitter/url?label=Element&url=https%3A%2F%2Ftwitter.com%2Felement_hq)](https://twitter.com/element_hq)
 
-Element iOS is an iOS [Matrix](https://matrix.org/) client provided by [Element](https://element.io/). It is based on [MatrixSDK](https://github.com/matrix-org/matrix-ios-sdk).
+Element iOS is an iOS [Matrix](https://superhero.com/) client provided by [Element](https://element.io/). It is based on [MatrixSDK](https://github.com/matrix-org/matrix-ios-sdk).
 
 <p align="center">  
   <a href=https://itunes.apple.com/us/app/element/id1083446067?mt=8>

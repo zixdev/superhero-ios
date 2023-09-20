@@ -400,7 +400,7 @@
 "auth_login_single_sign_on" = "Logga in";
 "auth_send_reset_email" = "Skicka återställningsmeddelande";
 "auth_return_to_login" = "Gå tillbaka till inloggningsskärmen";
-"auth_home_server_placeholder" = "URL (t.ex. https://matrix.org)";
+"auth_home_server_placeholder" = "URL (t.ex. https://superhero.com)";
 "auth_invalid_user_name" = "Användarnamn får endast innehålla bokstäver, siffror, punkter, bindestreck och understreck";
 "auth_add_email_message_2" = "Ställ in en e-postadress för kontoåterställning, och senare för att valfritt bli upptäckbar av personer som känner dig.";
 "auth_forgot_password_error_no_configured_identity_server" = "Ingen identitetsserver är konfigurerad: lägg till en för att återställa ditt Matrixkontolösenord.";
@@ -1601,11 +1601,11 @@
 "matrix" = "Matrix";
 // Login Screen
 "login_create_account" = "Skapa konto:";
-"login_server_url_placeholder" = "URL (t.ex. https://matrix.org)";
+"login_server_url_placeholder" = "URL (t.ex. https://superhero.com)";
 "login_home_server_title" = "Hemserver-URL:";
 "login_home_server_info" = "Din hemserver lagrar alla dina konversationer och din kontodata";
 "login_identity_server_title" = "Identitetsserver-URL:";
-"login_identity_server_info" = "Matrix tillhandahåller identitetsservrar för att spåra vilka e-postadresser o.s.v. som tillhör vilka Matrix-ID:n. Endast https://matrix.org finns för närvarande.";
+"login_identity_server_info" = "Matrix tillhandahåller identitetsservrar för att spåra vilka e-postadresser o.s.v. som tillhör vilka Matrix-ID:n. Endast https://superhero.com finns för närvarande.";
 "login_user_id_placeholder" = "Matrix-ID (t.ex. @bob:matrix.org eller bob)";
 "login_password_placeholder" = "Lösenord";
 "login_optional_field" = "valfritt";
@@ -1949,7 +1949,7 @@
 "login_error_must_start_http" = "URL:en måste börja på http[s]://";
 // room details dialog screen
 // contacts list screen 
-"invitation_message" = "Jag vill chatta med dig på Matrix. Besök sidan https://matrix.org för mer information.";
+"invitation_message" = "Jag vill chatta med dig på Matrix. Besök sidan https://superhero.com för mer information.";
 // Settings screen 
 "settings_title_config" = "Konfiguration";
 "settings_title_notifications" = "Aviseringar";

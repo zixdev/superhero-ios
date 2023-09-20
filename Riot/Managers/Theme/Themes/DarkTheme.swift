@@ -49,7 +49,7 @@ class DarkTheme: NSObject, Theme {
     var textTertiaryColor: UIColor = UIColor(rgb: 0x8E99A4)
     var textQuinaryColor: UIColor = UIColor(rgb: 0x394049)
 
-    var tintColor: UIColor = UIColor(rgb: 0x0DBD8B)
+    var tintColor: UIColor = UIColor(rgb: 0x1161FE)
     var tintBackgroundColor: UIColor = UIColor(rgb: 0x1F6954)
     var tabBarUnselectedItemTintColor: UIColor = UIColor(rgb: 0x8E99A4)
     var unreadRoomIndentColor: UIColor = UIColor(rgb: 0x2E3648)

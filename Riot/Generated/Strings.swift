@@ -411,7 +411,7 @@ public class VectorL10n: NSObject {
   public static var authForgotPasswordErrorNoConfiguredIdentityServer: String { 
     return VectorL10n.tr("Vector", "auth_forgot_password_error_no_configured_identity_server") 
   }
-  /// URL (e.g. https://matrix.org)
+  /// URL (e.g. https://superhero.com)
   public static var authHomeServerPlaceholder: String { 
     return VectorL10n.tr("Vector", "auth_home_server_placeholder") 
   }
@@ -3579,7 +3579,7 @@ public class VectorL10n: NSObject {
   public static var loginHomeServerTitle: String { 
     return VectorL10n.tr("Vector", "login_home_server_title") 
   }
-  /// Matrix provides identity servers to track which emails etc. belong to which Matrix IDs. Only https://matrix.org currently exists.
+  /// Matrix provides identity servers to track which emails etc. belong to which Matrix IDs. Only https://superhero.com currently exists.
   public static var loginIdentityServerInfo: String { 
     return VectorL10n.tr("Vector", "login_identity_server_info") 
   }
@@ -3611,7 +3611,7 @@ public class VectorL10n: NSObject {
   public static var loginPromptEmailToken: String { 
     return VectorL10n.tr("Vector", "login_prompt_email_token") 
   }
-  /// URL (e.g. https://matrix.org)
+  /// URL (e.g. https://superhero.com)
   public static var loginServerUrlPlaceholder: String { 
     return VectorL10n.tr("Vector", "login_server_url_placeholder") 
   }

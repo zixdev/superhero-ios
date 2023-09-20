@@ -47,7 +47,7 @@
 "auth_phone_placeholder" = "Numër telefoni";
 "auth_repeat_password_placeholder" = "Rijepeni fjalëkalimin";
 "auth_repeat_new_password_placeholder" = "Që ta ripohoni, jepni fjalëkalimin e llogarisë tuaj Matrix";
-"auth_home_server_placeholder" = "URL (p.sh., https://matrix.org)";
+"auth_home_server_placeholder" = "URL (p.sh., https://superhero.com)";
 "auth_identity_server_placeholder" = "URL (p.sh., https://vector.im)";
 "auth_invalid_login_param" = "Emër përdoruesi dhe/ose fjalëkalim i pasaktë";
 "auth_invalid_password" = "Fjalëkalim shumë i shkurtër (min 6)";
@@ -1659,7 +1659,7 @@
 "matrix" = "Matrix";
 // Login Screen
 "login_create_account" = "Krijo llogari:";
-"login_server_url_placeholder" = "URL (p.sh. https://matrix.org)";
+"login_server_url_placeholder" = "URL (p.sh. https://superhero.com)";
 "login_home_server_title" = "URL Shërbyesi Home:";
 "login_identity_server_title" = "URL Shërbyesi Identitetesh:";
 "login_password_placeholder" = "Fjalëkalim";
@@ -1944,7 +1944,7 @@
 "network_error_not_reachable" = "Ju lutemi, kontrolloni aftësinë e lidhjes në rrjetin tuaj";
 "share" = "Ndajeni me të tjerët";
 "login_home_server_info" = "Shërbyesi juaj home depoziton krejt të dhënat e bisedave dhe llogarive tuaja";
-"login_identity_server_info" = "Matrix ofron shërbyes identiteti për të ndjekur se cilat email-e, etj, u përkasin ID-ve Matrix IDs. Hëpërhë ekziston vetëm https://matrix.org.";
+"login_identity_server_info" = "Matrix ofron shërbyes identiteti për të ndjekur se cilat email-e, etj, u përkasin ID-ve Matrix IDs. Hëpërhë ekziston vetëm https://superhero.com.";
 "login_user_id_placeholder" = "ID Matrix (p.sh. @poku:matrix.org ose poku)";
 "login_display_name_placeholder" = "Emër në ekran (p.sh. Mane Trimi)";
 "login_email_info" = "Përcaktimi i një adrese email i lejon përdoruesit e tjerë t’ju gjejnë më lehtë në Matrix, dhe do t’ju japë një rrugë për ricaktimin e fjalëkalimit tuaj në të ardhmen.";

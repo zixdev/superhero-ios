@@ -24,7 +24,7 @@ import Foundation
 ///  - Fulfil all mandatory stages using the methods `performReCaptcha` `acceptTerms` `dummy`, etc.
 ///
 /// More documentation can be found in the file https://github.com/vector-im/element-android/blob/main/docs/signup.md
-/// and https://matrix.org/docs/spec/client_server/latest#account-registration-and-management
+/// and https://superhero.com/docs/spec/client_server/latest#account-registration-and-management
 class RegistrationWizard {
     struct State {
         var currentSession: String?

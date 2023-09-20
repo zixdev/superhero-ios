@@ -51,7 +51,7 @@
 "auth_phone_placeholder" = "Номер телефону";
 "auth_repeat_password_placeholder" = "Повторіть пароль";
 "auth_repeat_new_password_placeholder" = "Підтвердьте новий пароль облікового запису Matrix";
-"auth_home_server_placeholder" = "URL (наприклад, https://matrix.org)";
+"auth_home_server_placeholder" = "URL (наприклад, https://superhero.com)";
 "auth_identity_server_placeholder" = "URL (наприклад, https://vector.im)";
 "auth_invalid_login_param" = "Неправильне ім'я користувача або пароль";
 "auth_invalid_user_name" = "Імена користувачів можуть містити лише літери, цифри, крапки, дефіси й підкреслення";
@@ -1800,7 +1800,7 @@
 "ban" = "Заблокувати";
 "kick" = "Вилучити з бесіди";
 "discard" = "Відхилити";
-"login_server_url_placeholder" = "URL (наприклад, https://matrix.org)";
+"login_server_url_placeholder" = "URL (наприклад, https://superhero.com)";
 
 // Login Screen
 "login_create_account" = "Створіть обліковий запис:";
@@ -1870,7 +1870,7 @@
 "login_optional_field" = "необов'язково";
 "login_password_placeholder" = "Пароль";
 "login_user_id_placeholder" = "Ідентифікатор Matrix (наприклад @bob:matrix.org або bob)";
-"login_identity_server_info" = "Matrix забезпечує сервери ідентифікації для відстеження, до яких ідентифікаторів Matrix, які електронні листи належать. Наразі доступно лише для https://matrix.org.";
+"login_identity_server_info" = "Matrix забезпечує сервери ідентифікації для відстеження, до яких ідентифікаторів Matrix, які електронні листи належать. Наразі доступно лише для https://superhero.com.";
 "login_identity_server_title" = "URL-адреса сервера ідентифікації:";
 "login_home_server_info" = "Ваш домашній сервер зберігає всі ваші розмови та дані облікового запису";
 "login_home_server_title" = "URL-адреса домашнього сервера:";
@@ -2316,7 +2316,7 @@
 "ssl_cert_not_trust" = "Це може означати, що хтось зловмисно перехоплює ваш трафік або ваш телефон не довіряє сертифікату, наданому віддаленим сервером.";
 
 // contacts list screen 
-"invitation_message" = "Поговорімо в matrix? Сайт https://matrix.org описує, як це зробити.";
+"invitation_message" = "Поговорімо в matrix? Сайт https://superhero.com описує, як це зробити.";
 "local_contacts_access_discovery_warning" = "Щоб виявляти, які ваші контакти вже в Matrix, %@ може надсилати адреси е-пошти й номери телефонів із вашої адресної книги на обраний сервер ідентифікації Matrix. Особисті дані хешуються перед надсиланням, якщо це підтримується: перегляньте політику приватності свого сервера ідентифікації, щоб дізнатися більше.";
 "local_contacts_access_not_granted" = "Для пошуку користувачів серед локальних контактів потрібен доступ до ваших контактів, але %@ не має такого дозволу";
 "e2e_export_prompt" = "Це дає змогу експортувати в локальний файл ключі до повідомлень, отриманих вами в зашифрованих кімнатах. Тоді ви зможете імпортувати файл до іншого клієнта Matrix у майбутньому, і той клієнт також зможе розшифрувати ці повідомлення.\nЕкспортований файл дасть змогу всім, хто його прочитає, розшифрувати всі видимі вам зашифровані повідомлення.";

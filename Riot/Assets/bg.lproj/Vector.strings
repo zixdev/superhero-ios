@@ -49,7 +49,7 @@
 "auth_phone_placeholder" = "Телефонен номер";
 "auth_repeat_password_placeholder" = "Повтори парола";
 "auth_repeat_new_password_placeholder" = "Потвърди новата парола";
-"auth_home_server_placeholder" = "URL (напр. https://matrix.org)";
+"auth_home_server_placeholder" = "URL (напр. https://superhero.com)";
 "auth_identity_server_placeholder" = "URL (напр. https://vector.im)";
 "auth_invalid_login_param" = "Неправилно потребителско име и/или парола";
 "auth_invalid_user_name" = "Потребителските имена могат да съдържат само букви, цифри, точки, тирета и долни черти";
@@ -1392,11 +1392,11 @@
 "matrix" = "Matrix";
 // Login Screen
 "login_create_account" = "Регистрация:";
-"login_server_url_placeholder" = "URL (напр. https://matrix.org)";
+"login_server_url_placeholder" = "URL (напр. https://superhero.com)";
 "login_home_server_title" = "Home сървър адрес:";
 "login_home_server_info" = "Сървърът Ви съхранява цялата кореспонденция и профилни данни";
 "login_identity_server_title" = "Адрес на сървър за самоличност:";
-"login_identity_server_info" = "Matrix предоставя сървъри за самоличност, които проследяват кои имейли и т.н. на кои Matrix идентификатори принадлежат. В момента съществува само https://matrix.org.";
+"login_identity_server_info" = "Matrix предоставя сървъри за самоличност, които проследяват кои имейли и т.н. на кои Matrix идентификатори принадлежат. В момента съществува само https://superhero.com.";
 "login_user_id_placeholder" = "Matrix ID (напр. @ivan:matrix.org или ivan)";
 "login_password_placeholder" = "Парола";
 "login_optional_field" = "по избор";

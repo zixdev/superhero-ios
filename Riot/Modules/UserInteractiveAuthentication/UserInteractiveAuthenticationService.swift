@@ -217,7 +217,7 @@ final class UserInteractiveAuthenticationService: NSObject {
         return self.authenticationFallbackURL(for: firstUncompletedStageIdentifier, sessionId: sessiondId)
     }
     
-    /// Build UIA fallback authentication URL for a given stage (https://matrix.org/docs/spec/client_server/latest#fallback)
+    /// Build UIA fallback authentication URL for a given stage (https://superhero.com/docs/spec/client_server/latest#fallback)
     /// - Parameters:
     ///   - flowIdentifier: The login type to authenticate with.
     ///   - sessionId:  The the ID of the session given by the homeserver.

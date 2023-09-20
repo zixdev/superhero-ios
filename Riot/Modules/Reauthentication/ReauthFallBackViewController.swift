@@ -16,7 +16,7 @@
 
 import UIKit
 
-/// View controller used for User-Interactive Authentication fallback (https://matrix.org/docs/spec/client_server/latest#fallback)
+/// View controller used for User-Interactive Authentication fallback (https://superhero.com/docs/spec/client_server/latest#fallback)
 final class ReauthFallBackViewController: AuthFallBackViewController, Themable {
     
     // MARK: - Properties

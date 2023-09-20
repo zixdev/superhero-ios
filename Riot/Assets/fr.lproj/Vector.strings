@@ -449,7 +449,7 @@
 "settings_user_interface" = "INTERFACE UTILISATEUR";
 // Events formatter
 "event_formatter_member_updates" = "%tu modifications dans les membres";
-"auth_home_server_placeholder" = "URL (par ex. https://matrix.org)";
+"auth_home_server_placeholder" = "URL (par ex. https://superhero.com)";
 "auth_identity_server_placeholder" = "URL (par ex. https://vector.im)";
 "room_ongoing_conference_call_with_close" = "Téléconférence en cours. Rejoindre en %@ ou %@. %@.";
 "room_ongoing_conference_call_close" = "Fermer";
@@ -1683,11 +1683,11 @@
 "matrix" = "Matrix";
 // Login Screen
 "login_create_account" = "Créer un compte :";
-"login_server_url_placeholder" = "URL (par ex. https://matrix.org)";
+"login_server_url_placeholder" = "URL (par ex. https://superhero.com)";
 "login_home_server_title" = "URL du serveur d’accueil :";
 "login_home_server_info" = "Votre serveur d’accueil stocke toutes vos discussions et les données de votre compte";
 "login_identity_server_title" = "URL du serveur d’identité :";
-"login_identity_server_info" = "Matrix fournit des serveurs d’identité pour lier les e-mail, etc aux identifiants Matrix. Seul https://matrix.org existe pour l’instant.";
+"login_identity_server_info" = "Matrix fournit des serveurs d’identité pour lier les e-mail, etc aux identifiants Matrix. Seul https://superhero.com existe pour l’instant.";
 "login_user_id_placeholder" = "Identifiant Matrix (par ex. @bob:matrix.org ou bob)";
 "login_password_placeholder" = "Mot de passe";
 "login_optional_field" = "facultatif";

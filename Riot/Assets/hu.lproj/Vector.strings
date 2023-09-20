@@ -53,7 +53,7 @@
 "auth_phone_placeholder" = "Telefonszám";
 "auth_repeat_password_placeholder" = "Jelszó megerősítés";
 "auth_repeat_new_password_placeholder" = "Új Matrix fiók jelszó megerősítés";
-"auth_home_server_placeholder" = "URL (pl. https://matrix.org)";
+"auth_home_server_placeholder" = "URL (pl. https://superhero.com)";
 "auth_identity_server_placeholder" = "URL (pl. https://vector.im)";
 "auth_invalid_login_param" = "Hibás felhasználói név és/vagy jelszó";
 "auth_invalid_user_name" = "A felhasználói név tartalmazhat betűket, számokat, pontokat, kötőjeleket és aláhúzást";
@@ -1667,11 +1667,11 @@
 "matrix" = "Matrix";
 // Login Screen
 "login_create_account" = "Fiók létrehozása:";
-"login_server_url_placeholder" = "URL (például https://matrix.org)";
+"login_server_url_placeholder" = "URL (például https://superhero.com)";
 "login_home_server_title" = "Matrix szerver URL:";
 "login_home_server_info" = "A matrix szerver tárolja minden beszélgetésedet és felhasználói fiók adatodat";
 "login_identity_server_title" = "Azonosítási szerver URL:";
-"login_identity_server_info" = "Matrix biztosít egy azonosító szerver ami nyilvántartja, hogy melyik matrix azonosítóhoz milyen e-mail cím, stb. tartozik. Jelenleg csak a https://matrix.org az egyetlen ilyen szerver.";
+"login_identity_server_info" = "Matrix biztosít egy azonosító szerver ami nyilvántartja, hogy melyik matrix azonosítóhoz milyen e-mail cím, stb. tartozik. Jelenleg csak a https://superhero.com az egyetlen ilyen szerver.";
 "login_user_id_placeholder" = "Matrix azonosító (pl.: @bob:matrix.org vagy csak bob)";
 "login_password_placeholder" = "Jelszó";
 "login_optional_field" = "opcionális";

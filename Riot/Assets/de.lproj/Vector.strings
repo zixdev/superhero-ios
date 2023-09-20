@@ -408,7 +408,7 @@
 "event_formatter_member_updates" = "%tu Änderungen der Mitgliedschaft";
 "contacts_user_directory_section" = "NUTZERVERZEICHNIS";
 "contacts_user_directory_offline_section" = "NUTZERVERZEICHNIS (offline)";
-"auth_home_server_placeholder" = "URL (z.B. https://matrix.org)";
+"auth_home_server_placeholder" = "URL (z.B. https://superhero.com)";
 "auth_identity_server_placeholder" = "URL (z. B. https://vector.im)";
 "room_ongoing_conference_call_close" = "Schließen";
 "room_conference_call_no_power" = "Du bist nicht berechtigt, Konferenzgespräche in diesem Raum zu verwalten";
@@ -1645,7 +1645,7 @@
 "matrix" = "Matrix";
 // Login Screen
 "login_create_account" = "Konto erstellen:";
-"login_server_url_placeholder" = "URL (z.B. https://matrix.org)";
+"login_server_url_placeholder" = "URL (z.B. https://superhero.com)";
 "login_home_server_title" = "Heim-Server-Adresse:";
 "login_home_server_info" = "Dein Heim-Server speichert all deine Gespräche und Kontodaten";
 "login_identity_server_title" = "Identitätsserver-Adresse:";
@@ -2046,7 +2046,7 @@
 
 // room details dialog screen
 // contacts list screen
-"invitation_message" = "Ich würde gerne über Matrix mit dir schreiben. Du kannst dich auf https://matrix.org darüber informieren.";
+"invitation_message" = "Ich würde gerne über Matrix mit dir schreiben. Du kannst dich auf https://superhero.com darüber informieren.";
 // Settings screen
 "settings_title_config" = "Konfiguration";
 "settings_title_notifications" = "Benachrichtigungen";

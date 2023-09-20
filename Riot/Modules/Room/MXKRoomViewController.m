@@ -966,7 +966,7 @@ static const CGFloat kCellVisibilityMinimumHeight = 8.0;
     BOOL isRoomEmpty = [msg isEqualToString:@"No known servers"];
     if (isRoomEmpty)
     {
-        // minging kludge until https://matrix.org/jira/browse/SYN-678 is fixed
+        // minging kludge until https://superhero.com/jira/browse/SYN-678 is fixed
         // 'Error when trying to join an empty room should be more explicit'
         msg = [VectorL10n roomErrorJoinFailedEmptyRoom];
     }

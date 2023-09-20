@@ -135,7 +135,7 @@
 "auth_invalid_user_name" = "Používateľské meno môže obsahovať len písmená, číslice, bodky, pomlčky a podčiarkovníky";
 "auth_invalid_login_param" = "Nesprávne používateľské meno a/alebo heslo";
 "auth_identity_server_placeholder" = "URL (napr. https://vector.im)";
-"auth_home_server_placeholder" = "URL (napr. https://matrix.org)";
+"auth_home_server_placeholder" = "URL (napr. https://superhero.com)";
 "auth_repeat_new_password_placeholder" = "Potvrďte svoje nové heslo k účtu Matrix";
 "auth_repeat_password_placeholder" = "Zopakovať heslo";
 "auth_phone_placeholder" = "Telefónne číslo";
@@ -1846,7 +1846,7 @@
 "login_email_info" = "Zadanie e-mailovej adresy umožní ostatným používateľom ľahšie vás nájsť v službe Matrix a umožní vám v budúcnosti obnoviť heslo.";
 "login_display_name_placeholder" = "Zobrazované meno (napr. Fero Novák)";
 "login_user_id_placeholder" = "Matrix ID (napr. @fero:matrix.org alebo fero)";
-"login_identity_server_info" = "Matrix poskytuje servery totožnosti na sledovanie, ktoré e-maily atď. patria k jednotlivým Matrix ID. V súčasnosti existuje iba stránka https://matrix.org.";
+"login_identity_server_info" = "Matrix poskytuje servery totožnosti na sledovanie, ktoré e-maily atď. patria k jednotlivým Matrix ID. V súčasnosti existuje iba stránka https://superhero.com.";
 "login_home_server_info" = "Váš domovský server ukladá všetky vaše konverzácie a údaje o účte";
 "call_more_actions_dialpad" = "Číselník";
 "call_ended" = "Hovor ukončený";
@@ -1973,7 +1973,7 @@
 "login_email_placeholder" = "Emailová adresa";
 "login_password_placeholder" = "Heslo";
 "login_identity_server_title" = "URL adresa servera totožností:";
-"login_server_url_placeholder" = "URL (napr. https://matrix.org)";
+"login_server_url_placeholder" = "URL (napr. https://superhero.com)";
 
 // Login Screen
 "login_create_account" = "Vytvoriť účet:";

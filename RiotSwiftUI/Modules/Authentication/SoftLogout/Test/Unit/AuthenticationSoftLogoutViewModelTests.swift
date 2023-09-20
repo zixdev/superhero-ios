@@ -21,7 +21,7 @@ import XCTest
 class AuthenticationSoftLogoutViewModelTests: XCTestCase {
     @MainActor func testInitialStateForMatrixOrg() async {
         let credentials = SoftLogoutCredentials(userId: "mock_user_id",
-                                                homeserverName: "https://matrix.org",
+                                                homeserverName: "https://superhero.com",
                                                 userDisplayName: "mock_username",
                                                 deviceId: nil)
         let viewModel = AuthenticationSoftLogoutViewModel(credentials: credentials,

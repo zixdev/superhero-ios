@@ -334,7 +334,7 @@
     MXWeakify(self);
     
     // Given an HTML string that contains an image tag inline.
-    NSURL *imageURL = [NSURL URLWithString:@"https://matrix.org/images/matrix-logo.svg"];
+    NSURL *imageURL = [NSURL URLWithString:@"https://superhero.com/images/matrix-logo.svg"];
     NSString *html = [NSString stringWithFormat:@"Look at this logo: <img src=\"%@\"> Very nice.", imageURL.absoluteString];
     
     // When rendering this string as an attributed string using an appropriate image handler block.
